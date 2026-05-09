@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there, I'm Wissal Hajjej 👋
 
-<!--
-**wissalhajjej/wissalhajjej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student at Girne American University
+📍 North Cyprus
+🚀 Passionate about Full-Stack Development
+🌱 Currently learning: Spring Boot · Angular · Database Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Frontend:**
+React · Angular · HTML · CSS · JavaScript
+
+**Backend:**
+Spring Boot · Python
+
+**Database:**
+MySQL · SQL
+
+**Tools:**
+Git · GitHub · VS Code · Microsoft Excel
+
+---
+
+## 📂 My Projects
+
+| Project | Description | Tech | Demo |
+|---------|-------------|------|------|
+| [📷 Photo Album](https://github.com/wissalhajjej/photo-album) | Responsive photo gallery | HTML · CSS · Bootstrap | [Live](https://wissalhajjej.github.io/photo-album) |
+| [🌞 Summer Project](https://github.com/wissalhajjej/summer-project) | Summer school web app | HTML · CSS · JS | [Live](https://wissalhajjej.github.io/summer-project) |
+| [👥 Employee Manager](https://github.com/wissalhajjej/employee-manager) | HR management system | Excel | - |
+| [🎓 Student System](https://github.com/wissalhajjej/student) | Student management | Python | - |
+
+---
+
+## 🌍 Languages
+- 🇸🇦 Arabic — Native
+- 🇬🇧 English — Fluent
+- 🇫🇷 French — Fluent
+- 🇩🇪 German — Basic
+
+---
+
+## 📫 Contact Me
+- 📧 wissalhj23@gmail.com
+- 📍 North Cyprus, Lefkosha
