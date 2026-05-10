@@ -30,7 +30,7 @@ Git · GitHub · VS Code · Microsoft Excel
 | [📷 Photo Album](https://github.com/wissalhajjej/photo-album) | Responsive photo gallery | HTML · CSS · Bootstrap | [Live](https://wissalhajjej.github.io/photo-album) |
 | [🌞 Summer Project](https://github.com/wissalhajjej/summer-project) | Summer school web app | HTML · CSS · JS | [Live](https://wissalhajjej.github.io/summer-project) |
 | [👥 Employee Manager](https://github.com/wissalhajjej/employee-manager) | HR management system | Excel | - |
-| [🎓 Student System](https://github.com/wissalhajjej/student) | Student management | Python | - |
+| [🏢 Employee System](https://github.com/wissalhajjej/employee-management-system) | Full-stack HR management system | HTML · CSS · JS | [Live](https://wissalhajjej.github.io/employee-management-system) |
 
 ---
 
