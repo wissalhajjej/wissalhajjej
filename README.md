@@ -1,47 +1,51 @@
-# Hi there, I'm Wissal Hajjej 👋
+# Hi, I'm Wissal Hajjej 👋
 
-🎓 Computer Engineering Student at Girne American University
-📍 North Cyprus
-🚀 Passionate about Full-Stack Development
-🌱 Currently learning: Spring Boot · Angular · Database Systems
+🎓 Computer Engineering student at Girne American University (graduating June 2027)
+💼 Looking for a junior software or web development position starting June 2027
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**
-React · Angular · HTML · CSS · JavaScript
+**Languages:** Python · JavaScript · TypeScript · Java · PHP · SQL
 
-**Backend:**
-Spring Boot · Python
+**Frontend:** React · Angular · HTML · CSS · Bootstrap
 
-**Database:**
-MySQL · SQL
+**Backend and databases:** Spring Boot · REST APIs · MySQL · PostgreSQL · Google Apps Script
 
-**Tools:**
-Git · GitHub · VS Code · Microsoft Excel
+**Tools:** Git · GitHub · VS Code · XAMPP · WordPress / WooCommerce
 
 ---
 
-## 📂 My Projects
+## 📂 Projects
 
-| Project | Description | Tech | Demo |
-|---------|-------------|------|------|
-| [📷 Photo Album](https://github.com/wissalhajjej/photo-album) | Responsive photo gallery | HTML · CSS · Bootstrap | [Live](https://wissalhajjej.github.io/photo-album) |
-| [🌞 Summer Project](https://github.com/wissalhajjej/summer-project) | Summer school web app | HTML · CSS · JS | [Live](https://wissalhajjej.github.io/summer-project) |
-| [👥 Employee Manager](https://github.com/wissalhajjej/employee-manager) | HR management system | Excel | - |
-| [🏢 Employee System](https://github.com/wissalhajjej/employee-management-system) | Full-stack HR management system | HTML · CSS · JS | [Live](https://wissalhajjej.github.io/employee-management-system) |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🏢 ICF Internship App](https://github.com/wissalhajjej/icf-hr-internship-app) | Internship management app for an HR department, with UML and Merise analysis | PHP · MySQL · HTML · CSS |
+| [👥 Employee Task & Attendance Manager](https://github.com/wissalhajjej/Employee-Task-Attendance-Manager) | Attendance and task tracker with login and roles, built on Google Sheets | Google Apps Script · JavaScript · HTML · CSS |
+| [🏢 Employee Management System](https://github.com/wissalhajjej/employee-management-system) | Full-stack employee, attendance and task management | Angular · TypeScript · Spring Boot · MySQL |
+| [📷 Photo Album](https://github.com/wissalhajjej/photo-album) | Responsive photo gallery | HTML · CSS · Bootstrap |
+
+---
+
+## 💼 Experience
+
+- SEO intern at Deepway (freediving equipment, e-commerce)
+- Summer intern at ICF: developed the internship management app above
+- AI engineer and developer on the Kiero Language Academy team project (German learning platform)
 
 ---
 
 ## 🌍 Languages
-- 🇸🇦 Arabic — Native
-- 🇬🇧 English — Fluent
-- 🇫🇷 French — Fluent
-- 🇩🇪 German — Basic
+
+- 🇸🇦 Arabic: native
+- 🇬🇧 English: fluent
+- 🇫🇷 French: fluent
+- 🇩🇪 German: basic
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
+
 - 📧 wissalhj23@gmail.com
-- 📍 North Cyprus, Lefkosha
+- 📍 Lefkoşa, North Cyprus
