@@ -29,10 +29,9 @@
 
 ## 💼 Experience
 
-- SEO intern at Deepway (freediving equipment, e-commerce)
-- Summer intern at ICF: developed the internship management app above
+- **SEO Intern**, Deepway (Jul 2026 – present): technical SEO and Google Ads Shopping campaigns for a freediving equipment e-commerce site.
+- **Summer Intern**, ICF HR department (27 Jul – 4 Sep 2026): developed the internship management app above (PHP, MySQL) with UML and Merise analysis.
 - **Junior Full-Stack Developer**, KI-E-RO Language Academy (Dec 2025 – Feb 2026): multi-role web platform for learning German, built with JavaScript (Google Apps Script), HTML, CSS and Google Sheets.
-
 ---
 
 ## 🌍 Languages
