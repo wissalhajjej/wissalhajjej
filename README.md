@@ -24,7 +24,7 @@
 |---------|-------------|------|
 | [🏢 ICF Internship App](https://github.com/wissalhajjej/icf-hr-internship-app) | Internship management app for an HR department, with UML and Merise analysis | PHP · MySQL · HTML · CSS |
 | [👥 Employee Task & Attendance Manager](https://github.com/wissalhajjej/Employee-Task-Attendance-Manager) | Attendance and task tracker with login and roles, built on Google Sheets | Google Apps Script · JavaScript · HTML · CSS |
-| [🏢 Employee Management System](https://github.com/wissalhajjej/employee-management-system) | Front-end app to manage employees, attendance and tasks (personal project) | HTML · CSS · JavaScript |
+| [🏢 Employee Management System](https://github.com/wissalhajjej/employee-management-system) | Front-end app to manage employees, attendance and tasks (personal project) | MySQL. HTML · CSS · JavaScript |
 
 ---
 
