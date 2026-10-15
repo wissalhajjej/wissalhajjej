@@ -31,7 +31,7 @@
 
 - SEO intern at Deepway (freediving equipment, e-commerce)
 - Summer intern at ICF: developed the internship management app above
-- AI engineer and developer on the Kiero Language Academy team project (German learning platform)
+- **Junior Full-Stack Developer**, KI-E-RO Language Academy (Dec 2025 – Feb 2026): multi-role web platform for learning German, built with JavaScript (Google Apps Script), HTML, CSS and Google Sheets.
 
 ---
 
